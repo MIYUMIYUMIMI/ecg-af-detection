@@ -1,0 +1,2 @@
+model,seed,threshold,accuracy,af_precision,af_recall,af_f1,non_af_f1,macro_f1,specificity,roc_auc,tn,fp,fn,tp
+ACGE,42,0.64,0.9506871463,0.6666666667,0.8909090909,0.7626459144,0.9724853406,0.8675656275,0.9565217391,0.9741631040,1078,49,12,98
